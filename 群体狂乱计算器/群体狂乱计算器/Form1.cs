@@ -540,7 +540,7 @@ namespace 群体狂乱计算器
 
         private void button9_Click(object sender, EventArgs e)
         {
-
+            Clipboard.SetText(textBox15.Text);
         }
     }
     public struct minion
