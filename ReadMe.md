@@ -1,5 +1,6 @@
+(English vision is at the bottom.)
 
-群体狂乱计算器。
+群体狂乱计算器
 
 使用vs2017 c# winform制作。
 
@@ -9,3 +10,13 @@
 https://www.iyingdi.com/web/bbspost/detail/1806541
 
 ![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
+
+Mass Hysteria Calculator (only has Chinese vision)
+
+made by vs2017 c# winform
+
+need .net 4.6.1 environment 
+
+Instruction:https://www.iyingdi.com/web/bbspost/detail/1806541
+
+![Mass Hysteria](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
