@@ -1,4 +1,14 @@
-(English vision is at the bottom.)
+(中文说明在最下面)
+Mass Hysteria Calculator  to calculate how to move your minions for casting Mass Hysteria
+
+made by vs2017 c# winform
+
+need .net 4.6.1 environment 
+
+Instruction:https://www.reddit.com/r/hearthstone/comments/ae3ai0/mass_hysteria_calculatoropen_source/
+
+
+![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
 
 群体狂乱计算器 计算你应该怎么动随从再打狂乱
 
@@ -8,13 +18,3 @@
 
 说明书：
 https://www.iyingdi.com/web/bbspost/detail/1806541
-
-![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
-
-Mass Hysteria Calculator (only has Chinese vision) to calculate how to move your minions for casting Mass Hysteria
-
-made by vs2017 c# winform
-
-need .net 4.6.1 environment 
-
-Instruction:https://www.iyingdi.com/web/bbspost/detail/1806541
