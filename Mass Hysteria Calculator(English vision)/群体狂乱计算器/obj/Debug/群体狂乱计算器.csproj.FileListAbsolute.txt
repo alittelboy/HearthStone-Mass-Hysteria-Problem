@@ -1,0 +1,30 @@
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe.config
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.pdb
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csprojResolveAssemblyReference.cache
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.Form1.resources
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.Properties.Resources.resources
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.GenerateResource.cache
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.CoreCompileInputs.cache
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.exe
+E:\bc\c#\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.pdb
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe.config
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\bin\Debug\群体狂乱计算器.pdb
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csprojAssemblyReference.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.Form1.resources
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.Properties.Resources.resources
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.GenerateResource.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.CoreCompileInputs.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.exe
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\群体狂乱计算器\群体狂乱计算器\obj\Debug\群体狂乱计算器.pdb
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe.config
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\bin\Debug\群体狂乱计算器.exe
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\bin\Debug\群体狂乱计算器.pdb
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.csprojAssemblyReference.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.Form1.resources
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.Properties.Resources.resources
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.GenerateResource.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.csproj.CoreCompileInputs.cache
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.exe
+D:\bc\c#\HearthStone-Mass-Hysteria-Problem-master\Mass Hysteria Calculator\群体狂乱计算器\obj\Debug\群体狂乱计算器.pdb
