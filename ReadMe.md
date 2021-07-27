@@ -9,7 +9,7 @@ learn more in file instruction.png,or obverse website:
 Instruction:https://www.reddit.com/r/hearthstone/comments/ae3ai0/mass_hysteria_calculatoropen_source/
 （reddit需要翻墙）
 
-https://share.weiyun.com/4fl66xhO13
+https://share.weiyun.com/4fl66xhO
 （说明书网页截图）
 
 ![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
