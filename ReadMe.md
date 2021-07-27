@@ -9,8 +9,8 @@ learn more in file instruction.png,or obverse website:
 Instruction:https://www.reddit.com/r/hearthstone/comments/ae3ai0/mass_hysteria_calculatoropen_source/
 （reddit需要翻墙）
 
-http://chunlixingren.cn/articles/Mass%20Hysteria%20Calculator(open%20source)%20_%20hearthstone.html
-（我的镜像网页，不需要翻墙但是很卡）
+https://share.weiyun.com/4fl66xhO13
+（说明书网页截图）
 
 ![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
 
