@@ -10,6 +10,7 @@ Instruction:https://www.reddit.com/r/hearthstone/comments/ae3ai0/mass_hysteria_c
 （reddit需要翻墙）
 
 
+
 （说明书网页截图）
 
 ![群体狂乱](http://wspic.iyingdi.cn/card/hearthstone/series/RST/card/169v1543436283.png)
