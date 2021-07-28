@@ -10,6 +10,7 @@ Instruction:https://www.reddit.com/r/hearthstone/comments/ae3ai0/mass_hysteria_c
 （reddit需要翻墙）
 
 
+https://share.weiyun.com/4fl66xhO 
 
 （说明书网页截图）
 
